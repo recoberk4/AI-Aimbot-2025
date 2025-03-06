@@ -1,7 +1,7 @@
 # AI-Aimbot-2025
 A python based AI Aimbot for Fortnite. Undectected and working 2025.
 
-Source Code included.
+Source code included.
 
 ---
 # Download:
