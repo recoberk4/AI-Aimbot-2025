@@ -6,4 +6,4 @@ Source code included.
 ---
 # Download:
 ---
-# https://github.com/recoberk4/AI-Aimbot-2025/releases/download/v1.1/program.zip
+# https://github.com/recoberk4/AI-Aimbot-2025/releases/Download/v1.1/program.zip
